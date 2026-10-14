@@ -7,4 +7,6 @@
   <Project Path="lab05.3/lab05.3.vcxproj" />
   <Project Path="lab5.1/lab5.1.vcxproj" />
   <Project Path="UnitTest51/UnitTest51.vcxproj" />
+  <Project Path="UnitTest52/UnitTest52.vcxproj" />
+  <Project Path="UnitTest53/UnitTest53.vcxproj" />
 </Solution>
